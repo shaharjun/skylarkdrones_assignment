@@ -1,4 +1,4 @@
-1.the script can be run on the command line as 'python3 word_chain_puzzle.py'
+install pycharm.
+ubuntu users, visit https://www.jetbrains.com/pycharm/download/#
 
-2.before running the script, please make sure you have 'distance' package installed. check by doing 'import distance'.
-if the 'distance' package is not installed, simply do 'apt-get install distance' on the command line.
+run the script word_chain_puzzle.py inside pycharm(please note it uses dictionary.txt for generating list of words, if you don't install pycharm and open both the files in one project, you may need to set path manually).
